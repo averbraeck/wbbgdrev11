@@ -851,7 +851,6 @@
       <name>Boundless Maven Repository</name>
       <url>https://maven.geo-solutions.it/</url>
     </repository>
-
   </repositories>
 
   <licenses>
