@@ -841,21 +841,15 @@
     </repository>
 
     <repository>
-      <snapshots>
-        <enabled>false</enabled>
-      </snapshots>
-      <id>boundless</id>
-      <name>Boundless Maven Repository</name>
-      <url>https://repo.boundlessgeo.com/main</url>
-    </repository>
-
-    <repository>
-      <snapshots>
-        <enabled>false</enabled>
-      </snapshots>
       <id>osgeo</id>
       <name>OSGeo Maven Repository</name>
-      <url>https://download.osgeo.org/webdav/geotools/</url>
+      <url>https://repo.osgeo.org/repository/geotools-releases</url>
+    </repository>
+    
+    <repository>
+      <id>geosolutions</id>
+      <name>Boundless Maven Repository</name>
+      <url>https://maven.geo-solutions.it/</url>
     </repository>
 
   </repositories>
